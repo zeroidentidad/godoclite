@@ -19,7 +19,7 @@ Follow the comments rules at [tip.golang.org/doc/comment](https://tip.golang.org
 ## installation
 
 ```sh
-go install github.com/zeroidentidad/godoclite
+go install github.com/zeroidentidad/godoclite@latest
 ```
 
 ## usage
